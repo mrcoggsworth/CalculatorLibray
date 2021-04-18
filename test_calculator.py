@@ -11,4 +11,3 @@ class TestCalculator:
 
     def test_multiply(self):
         assert calculator.multiply(10, 10) == 100
-
